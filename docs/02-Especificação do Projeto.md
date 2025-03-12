@@ -1,6 +1,6 @@
 # Especificações do Projeto
 
-O My Car Scan é um aplicação que permite visualizar dados importantes sobre o desempenho do veículo em tempo real através de um adaptador ELM327. Com ele, o usuário pode monitorar a temperatura do motor, rotação, consumo de combustível e outros parâmetros, tudo na tela do seu celular ou computador. Além disso, o usuário pode cadastrar meus carros na aplicação.
+O My Car Scan é uma aplicação que permite visualizar dados importantes sobre o desempenho do veículo em tempo real através de um adaptador ELM327. Com ele, o usuário pode monitorar a temperatura do motor, rotação, consumo de combustível e outros parâmetros, tudo na tela do seu celular ou computador. Além disso, o usuário pode cadastrar seus carros na aplicação.
 
 ## Requisitos
 
